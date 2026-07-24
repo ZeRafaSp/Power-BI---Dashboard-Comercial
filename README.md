@@ -118,7 +118,8 @@ Durante a construção do dashboard foi possível identificar:
 ```
 Dashboard-Comercial-PowerBI/
 │
-├── Dashboard Comercial.pbix
+├── Dados_Comerciais.xlsx
+├── Dashboard Comercial performance de vendass.pbix
 ├── README.md
 └── screenshots/
     ├── indice.png
