@@ -168,6 +168,6 @@ Dashboard-Comercial-PowerBI/
 
 Analista de Sistemas | Power BI | SQL | Python | Flutter | Business Intelligence
 
-GitHub: https://github.com/SEU-USUARIO
+GitHub: https://github.com/ZeRafaSp/
 
-LinkedIn: https://www.linkedin.com/in/SEU-LINK/
+LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
