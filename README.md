@@ -134,23 +134,23 @@ Dashboard-Comercial-PowerBI/
 
 ### Índice
 
-> *(Inserir imagem aqui)*
+![Índice](screenshots/indice.png)
 
 ### Narrativa Inteligente
 
-> *(Inserir imagem aqui)*
+![Narrativa](screenshots/narrativa.png)
 
 ### Principais Influenciadores
 
-> *(Inserir imagem aqui)*
+![Influenciadores](screenshots/influenciadores.png)
 
 ### Fluxo das Vendas
 
-> *(Inserir imagem aqui)*
+![Sankey](screenshots/sankey.png)
 
 ### Performance por Região
 
-> *(Inserir imagem aqui)*
+![Mapa](screenshots/mapa.png)
 
 ---
 
