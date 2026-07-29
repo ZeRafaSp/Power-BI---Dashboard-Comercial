@@ -167,7 +167,7 @@ Dashboard-Comercial-PowerBI/
 
 **José Rafael Santos Pereira**
 
-Analista de Dados | Power BI | SQL | Python | Flutter | Business Intelligence
+Desenvolvendo projetos práticos | Power BI | SQL | Python | Business Intelligence
 
 GitHub: https://github.com/ZeRafaSp/
 
